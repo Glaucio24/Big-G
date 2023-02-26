@@ -42,6 +42,18 @@ word-wrap: break-word;
 .css3icon{
     color: rgb(38, 38, 143)
 }
+.licon{
+    color: #0072b1;
+}
+.ticon{
+    color:#00acee;
+}
+.yicon{
+    color:#FF0000;
+}
+.gicon{
+    color:rgb(164, 164, 164);
+}
 .logoFont{
     font-family: 'Julee', cursive;
    
@@ -53,6 +65,7 @@ word-wrap: break-word;
     font-weight: bold;
     font-size: large;
 }
+
 
 
        main>.container {
